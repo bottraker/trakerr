@@ -10,7 +10,7 @@ android {
     namespace = "com.example.miapp"
     compileSdk = 33
     defaultConfig {
-        applicationId = "com.example.miapp"
+        applicationId = "namespace = "com.example.traker"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
